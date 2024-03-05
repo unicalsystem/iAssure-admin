@@ -1,0 +1,22 @@
+
+[
+    {
+      "auditId": 1,
+      "location": "Location 1",
+      "periodicity": "Weekly",
+      "auditDate": "2024-02-29",
+      "auditor": "Shoeb",
+      "auditee": "Samid",
+      "auditStatus": "Completed"
+    },
+    {
+      "auditId": 2,
+      "location": "Location 2",
+      "periodicity": "Monthly",
+      "auditDate": "2024-03-15",
+      "auditor": "Samid",
+      "auditee": "Shoeb",
+      "auditStatus": "Submitted"
+    }
+  ]
+  
