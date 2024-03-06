@@ -1,1 +1,1 @@
-We are under maintaince
+We are under maintenance
